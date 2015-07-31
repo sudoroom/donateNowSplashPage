@@ -67,7 +67,8 @@ a:hover {
 	margin: 0;
 	float: left;
 	font-weight: 400;
-	background-color: green;
+	background-color: #800000;
+	color: white;
 }
 
 .container > header span {
